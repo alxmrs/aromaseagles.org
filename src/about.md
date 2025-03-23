@@ -1,10 +1,32 @@
 ---
-title: About
-date: 2025-03-09T20:13:00.000Z
-description-meta: About this static site generator template.
+title: About Us
+description-meta: About the Fraternal Order of Eagles
 ---
-This is a demo of a static site generator based [pandoc.org](https://pandoc.org/). It is meant to be hosted on [GitHub  Pages](http://pages.github.com/) and sometimes edited with [Decap CMS](http://decapcms.org/). 
 
-This template aims to support experienced developers who want to build a website but feel that the state of web development is extremely, unnecessarily complicated.
+# People Helping People
 
-Most people who want a website have very modest requirements. It seems strange that one would need to pay to continuously run a webserver – and database! – just to express ideas on the web. The theory of sites that use this template are to keep things as simple as possible.
+## About the Fraternal Order of Eagles
+
+The Fraternal Order of Eagles is an international non-profit organization uniting fraternally in the spirit of liberty,
+truth, justice, and equality, to make human life more desirable by lessening its ills and promoting peace, prosperity,
+gladness and hope. The FOE donates more than $10 million a year to local communities, fundraisers, charities and more.
+As part of its philosophy, the FOE gives back 100 percent of funds raised in the form of grants.
+
+## About our Aerie
+
+Our local Aerie follows this spirit by funding many non-profits and activities that benefit the greater Aromas
+community. Our members are involved in many different community organizations and bring their knowledge and contacts to
+help the Eagles have the greatest possible impact. The Eagles support actions that build community and promote good
+will, particularly in the Aromas area.
+
+
+## Contact Us
+
+```
+PO Box 790
+Aromas, California 95004
+USA
+```
+
+[aromaseagles@gmail.com](mailto:aromaseagles@gmail.com)
+

@@ -5,7 +5,6 @@
 
 A template to build static websites with [Pandoc](https://pandoc.org/). 
 
-Demo site: [pandoc.merose.com](https://pandoc.merose.com/).
 
 ## Use
 

@@ -1,7 +1,7 @@
-site_url: https://pandoc.merose.com
+site_url: https://aromaseagles.org
 backend:
   name: github
-  repo: alxmrs/pandoc-website-template
+  repo: alxmrs/aromaseagles.org
   branch: main
   base_url: https://auth.merose.com
 media_folder: "assets/"
