@@ -1,15 +1,24 @@
+/* Color Palette: https://coolors.co/palette/780000-c1121f-fdf0d5-003049-669bbc */
+
 /* thanks https://bettermotherfuckingwebsite.com */
 body {
     margin: 40px auto;
     max-width: 650px;
     line-height: 1.6;
     font-size: 18px;
-    color: #444;
+    background-color: #669BBC;
+    color: #333;
     padding: 0 10px
 }
 
 h1, h2, h3 {
-    line-height: 1.2
+    color: #003049;
+}
+
+a {
+    color: #fff;
+    text-decoration: underline;
+    text-decoration-color: #C1121F;
 }
 
 nav ul {
@@ -26,6 +35,37 @@ nav ul li {
 
 img {
     max-width: 95%;
+}
+
+.full-bleed {
+  width: 100vw;
+  margin-left: calc(-50vw + 50%);
+  background-color: #FDF0D5;
+  padding: 10px;
+  box-sizing: border-box;
+  color: #ccc;
+}
+
+.content-wrapper {
+  max-width: 650px;
+  margin: 0 auto;
+}
+
+nav, footer {
+  width: 100vw;
+  margin-left: calc(-50vw + 50%);
+  background-color: #003049;
+  padding: 10px;
+  box-sizing: border-box;
+  color: #ccc;
+}
+
+nav {
+  margin-top: -40px;
+}
+
+footer {
+  margin-bottom: -40px;
 }
 
 /*Thanks https://css-tricks.com/snippets/css/simple-and-nice-blockquote-styling */
