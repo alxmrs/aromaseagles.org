@@ -1,7 +1,8 @@
 # Pandoc Website Template
 
-[![pages-deploy](https://github.com/alxmrs/pandoc-website-template/actions/workflows/pages.yml/badge.svg)](https://github.com/alxmrs/pandoc-website-template/actions/workflows/pages.yml)
-[![shellcheck](https://github.com/alxmrs/pandoc-website-template/actions/workflows/shellcheck.yml/badge.svg)](https://github.com/alxmrs/pandoc-website-template/actions/workflows/shellcheck.yml)
+[![pages-deploy](https://github.com/alxmrs/aromaseagles.org/actions/workflows/pages.yml/badge.svg)](https://github.com/alxmrs/aromaseagles.org/actions/workflows/pages.yml)
+[![pandoc-build](https://github.com/alxmrs/aromaseagles.org/actions/workflows/build.yml/badge.svg)](https://github.com/alxmrs/aromaseagles.org/actions/workflows/build.yml)
+[![shellcheck](https://github.com/alxmrs/aromaseagles.org/actions/workflows/shellcheck.yml/badge.svg)](https://github.com/alxmrs/aromaseagles.org/actions/workflows/shellcheck.yml)
 
 A template to build static websites with [Pandoc](https://pandoc.org/). 
 
