@@ -1,0 +1,16 @@
+#!/usr/bin/env sh
+set -e
+#
+# Install pandoc on debian.
+#
+VERSION="3.6.3"
+curl -o pandoc.deb -L -C - "https://github.com/jgm/pandoc/releases/download/$VERSION/pandoc-$VERSION-1-amd64.deb"
+sudo dpkg -i pandoc.deb
+rm pandoc.deb
+
+#
+# Install pandoc-rss on debian.
+#
+git clone https://github.com/chambln/pandoc-rss.git rss
+cd rss || exit 2
+sudo make install
