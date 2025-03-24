@@ -2,9 +2,16 @@
 title: Applications
 ---
 
-[<button>Eagles Citizenship Award Application</button>](/assets/applications/eagles-scholarship-application-2021.doc)
+<main class="container">
 
-[<button>Doug Clark Music Award Application</button>](/assets/applications/doug-clark-scholarship-application-2021.doc)
+# Scholarship Applications
+
+[Eagles Citizenship Award Application](/assets/applications/eagles-scholarship-application-2021.doc){.btn}
+
+[Doug Clark Music Award Application](/assets/applications/doug-clark-scholarship-application-2021.doc){.btn}
+
+
+</main>
 
 
 

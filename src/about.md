@@ -3,6 +3,9 @@ title: About Us
 description-meta: About the Fraternal Order of Eagles
 ---
 
+<main class="container">
+
+
 # People Helping People
 
 ## About the Fraternal Order of Eagles
@@ -30,3 +33,4 @@ USA
 
 [aromaseagles@gmail.com](mailto:aromaseagles@gmail.com)
 
+</main>
